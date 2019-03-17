@@ -1,4 +1,4 @@
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/13242/logos/thumb76_76.png?t=2019-03-12-23-33-31)
+![](https://raw.githubusercontent.com/dimitreOliveira/KaggleCareerCon2019/master/Assets/CareerCon_logo.png?token=AP5YSllvIJ7OzXtSixCaDKH5hwshkghEks5cl8V1wA%3D%3D)
 
 ## About the repository
 
