@@ -14,11 +14,11 @@
 #### [Deep Learning - [1st iteration]]()
 - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
 - Metrics:
-    - Score: Train: 0.93 Validation: 0.93 Test: 0.55
+    - Score: Train: 0.91 Validation: 0.91 Test: 0.55
 
 ---
 
 #### [Deep Learning - [2nd iteration]]()
-- Obs:
+- Obs: Using a more accurate train/validation split
 - Metrics:
     - Score: Train: 0.42 Validation: 0.41 Test: 0.45
