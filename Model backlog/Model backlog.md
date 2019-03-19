@@ -25,14 +25,21 @@
 
 ---
 
-#### [Deep Learning - [4rd iteration]]()
+#### [Deep Learning - [3rd iteration]](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/%5BCareerCon%202019%5D%20-%20MLP%20-%20%5B3rd%20iteration%5D.ipynb)
 - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
 - Metrics:
     - Score: Train: 0.84 Validation: 0.84 Test: 0.44
 
 ---
 
-#### [Deep Learning - [4th iteration]]()
+#### [Deep Learning - [4th iteration]](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/%5BCareerCon%202019%5D%20-%20MLP%20-%20%5B4th%20iteration%5D.ipynb)
 - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
 - Metrics:
     - Score: Train: 0.84 Validation: 0.84 Test: 0.48
+
+---
+
+#### [Deep Learning - [5th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.54 Validation: 0.51 Test: 0.46
