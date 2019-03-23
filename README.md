@@ -3,6 +3,7 @@
 ## About the repository
 
 ### Our team published Kaggle kernels:
+- [Deep Learning Helping Navigate Robots 🤖](https://www.kaggle.com/dimitreoliveira/deep-learning-helping-navigate-robots)
 
 ### What you will find
 
