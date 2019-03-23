@@ -39,7 +39,42 @@
 
 ---
 
-#### [Deep Learning - [5th iteration]]()
+#### [Deep Learning - [5th iteration]](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/%5BCareerCon%202019%5D%20-%20MLP%20-%20%5B5th%20iteration%5D.ipynb)
 - Obs: 
 - Metrics:
     - Score: Train: 0.54 Validation: 0.51 Test: 0.46
+
+---
+
+#### [Deep Learning - [6th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.41 Validation: 0.41 Test: 0.39
+
+---
+
+#### [Deep Learning - [7th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.87 Validation: 0.87 Test: 0.36
+
+---
+
+#### [Deep Learning - [8th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.82 Validation: 0.81 Test: 0.52
+
+---
+
+#### [Deep Learning - [10th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.89 Validation: 0.78 Test: 0.39
+
+---
+
+#### [Deep Learning - [11th iteration]]()
+- Obs: 
+- Metrics:
+    - Score: Train: 0.89 Validation: 0.76 Test: 0.53
