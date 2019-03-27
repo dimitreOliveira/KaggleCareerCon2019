@@ -64,3 +64,38 @@
         - Obs: Dataset framed as a time-series problem
         - Metrics:
             - Score: Train: 0.89 Validation: 0.76 Test: 0.53
+    
+    - #### [[12th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B12th%20iteration%5D%20-%20LSTM.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.10 Validation: 0.07 Test: ???
+    
+    - #### [[13th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B13th%20iteration%5D%20-%20MLP%20Series.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.91 Validation: 0.85 Test: ???
+    
+    - #### [[14th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B14th%20iteration%5D%20-%20CNN%20Series.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.85 Validation: 0.82 Test: ???
+    
+    - #### [[15th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B15th%20iteration%5D%20-%20LSTM.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.76 Validation: 0.71 Test: ???
+    
+    - #### [[16th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B16th%20iteration%5D%20-%20LSTM.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.42 Validation: 0.42 Test: ???
+    
+    - #### [[17th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B17th%20iteration%5D%20-%20LSTM.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.43 Validation: 0.43 Test: 0.46
+    
+    - #### [[18th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B18th%20iteration%5D%20-%20LSTM.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.45 Validation: 0.45 Test: 0.51
