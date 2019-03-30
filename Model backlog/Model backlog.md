@@ -99,3 +99,158 @@
         - Obs: 
         - Metrics:
             - Score: Train: 0.45 Validation: 0.45 Test: 0.51
+            
+    - #### [[19th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.46 Validation: 0.45 Test: 0.49
+            
+    - #### [[20th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.41 Validation: 0.42 Test: ???
+            
+    - #### [[21th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.44 Validation: 0.42 Test: 0.48
+            
+    - #### [[22th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.47 Validation: 0.46 Test: ???
+    
+    - #### [[23th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.54 Validation: 0.50 Test: 0.50
+            
+    - #### [[24th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.69 Validation: 0.64 Test: 0.48
+    
+    - #### [[25th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.61 Validation: 0.58 Test: 0.41
+    
+    - #### [[26th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.73 Validation: 0.68 Test: 0.49
+            
+    - #### [[27th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.62 Validation: 0.57 Test: 0.37
+    
+    - #### [[28th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.71 Validation: 0.66 Test: 0.45
+            
+    - #### [[29th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.74 Validation: 0.69 Test: 0.49
+            
+    - #### [[30th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.00 Validation: 0.00 Test: 0.00
+            
+    - #### [[31th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.72 Validation: 0.67 Test: 0.41
+            
+    - #### [[32th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.73 Validation: 0.69 Test: 0.42
+            
+    - #### [[33th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.78 Validation: 0.71 Test: 0.49
+            
+    - #### [[34th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.69 Validation: 0.67 Test: 0.44
+            
+    - #### [[35th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.63 Validation: 0.62 Test: 0.45
+            
+    - #### [[36th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.65 Validation: 0.65 Test: 0.42
+            
+    - #### [[37th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.76 Validation: 0.71 Test: 0.53
+            
+    - #### [[38th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.73 Validation: 0.70 Test: 0.47
+            
+    - #### [[39th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.63 Validation: 0.61 Test: 0.44
+            
+    - #### [[40th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.72 Validation: 0.68 Test: 0.43
+            
+    - #### [[41th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.71 Validation: 0.67 Test: 0.41
+            
+    - #### [[42th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.73 Validation: 0.70 Test: 0.43
+            
+    - #### [[43th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.76 Validation: 0.71 Test: 0.43
+            
+    - #### [[44th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.76 Validation: 0.71 Test: 0.50
+            
+    - #### [[45th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.75 Validation: 0.71 Test: 0.44
+            
+    - #### [[46th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.80 Validation: 0.75 Test: 0.49
+            
+    - #### [[47th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.78 Validation: 0.72 Test: 0.44
+            
+    - #### [[48th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.75 Validation: 0.70 Test: 0.44
+            
+    - #### [[49th iteration] - LSTM Series]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.79 Validation: 0.73 Test: 0.41
