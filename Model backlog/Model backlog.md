@@ -158,7 +158,7 @@
     - #### [[30th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B30th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
         - Obs: 
         - Metrics:
-            - Score: Train: 0.00 Validation: 0.00 Test: 0.00
+            - Score: Train: 0.76 Validation: 0.71 Test: 0.44
             
     - #### [[31th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B31th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
         - Obs: 
