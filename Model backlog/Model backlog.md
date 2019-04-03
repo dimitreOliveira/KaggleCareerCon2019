@@ -250,7 +250,52 @@
         - Metrics:
             - Score: Train: 0.75 Validation: 0.70 Test: 0.44
             
-    - #### [[49th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B49th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
+    - #### [[49th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B49th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
         - Obs: 
         - Metrics:
             - Score: Train: 0.79 Validation: 0.73 Test: 0.41
+            
+    - #### [[50th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B50th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.41 Validation: 0.41 Test: 0.40
+            
+    - #### [[51th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B51th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.43 Validation: 0.43 Test: 0.46
+            
+    - #### [[52th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B52th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.38 Test: ???
+            
+    - #### [[53th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B53th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.39 Test: ???
+            
+    - #### [[54th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B54th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.38 Test: 0.34
+            
+    - #### [[55th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B55th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.39 Test: 0.37
+            
+    - #### [[56th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B56th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.39 Test: 0.36
+            
+    - #### [[57th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B57th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.40 Validation: 0.39 Test: ???
+            
+    - #### [[58th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B58th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.39 Validation: 0.38 Test: ???
