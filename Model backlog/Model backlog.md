@@ -268,12 +268,12 @@
     - #### [[52th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B52th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
         - Obs: 
         - Metrics:
-            - Score: Train: 0.39 Validation: 0.38 Test: ???
+            - Score: Train: 0.39 Validation: 0.38 Test: 0.35
             
     - #### [[53th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B53th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
         - Obs: 
         - Metrics:
-            - Score: Train: 0.39 Validation: 0.39 Test: ???
+            - Score: Train: 0.39 Validation: 0.39 Test: 0.35
             
     - #### [[54th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B54th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
         - Obs: 
@@ -293,9 +293,44 @@
     - #### [[57th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B57th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
         - Obs: 
         - Metrics:
-            - Score: Train: 0.40 Validation: 0.39 Test: ???
+            - Score: Train: 0.40 Validation: 0.39 Test: 0.37
             
     - #### [[58th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B58th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
         - Obs: 
         - Metrics:
-            - Score: Train: 0.39 Validation: 0.38 Test: ???
+            - Score: Train: 0.39 Validation: 0.38 Test: 0.36
+            
+    - #### [[59th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.42 Validation: 0.42 Test: 0.49
+            
+    - #### [[60th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.42 Validation: 0.42 Test: 0.45
+            
+    - #### [[61th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.20 Validation: 0.20 Test: 0.16
+            
+    - #### [[62th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.40 Validation: 0.39 Test: 0.37
+            
+    - #### [[63th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.43 Validation: 0.43 Test: 0.50
+            
+    - #### [[64th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.46 Validation: 0.45 Test: 0.51
+            
+    - #### [[65th iteration] - CNN New validation]()
+        - Obs: 
+        - Metrics:
+            - Score: Train: 0.43 Validation: 0.44 Test: 0.51
