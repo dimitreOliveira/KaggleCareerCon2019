@@ -15,322 +15,70 @@
 
 - ### Deep Learning
 
-    - #### [[1st iteration] - MLP](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B1st%20iteration%5D%20-%20MLP.ipynb)
-        - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
-        - Metrics:
-            - Categorization Accuracy: Train: 0.91 Validation: 0.91 Test: 0.55
 
-    - #### [[2nd iteration] - MLP](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B2nd%20iteration%5D%20-%20MLP.ipynb)
-        - Obs: Using a more accurate train/validation split
-        - Metrics:
-            - Categorization Accuracy: Train: 0.42 Validation: 0.41 Test: 0.45
-    
-    - #### [[3rd iteration] - MLP](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B3rd%20iteration%5D%20-%20MLP.ipynb)
-        - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
-        - Metrics:
-            - Categorization Accuracy: Train: 0.84 Validation: 0.84 Test: 0.44
-    
-    - #### [[4th iteration] - MLP](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B4th%20iteration%5D%20-%20MLP.ipynb)
-        - Obs: This model had a wrong train/validation split, this resulted on a huge gap between validation and test scores.
-        - Metrics:
-            - Categorization Accuracy: Train: 0.84 Validation: 0.84 Test: 0.48
-    
-    - #### [[5th iteration] - MLP](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B5th%20iteration%5D%20-%20MLP.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.54 Validation: 0.51 Test: 0.46
-    
-    - #### [[6th iteration] - MLP Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B6th%20iteration%5D%20-%20MLP%20Series.ipynb)
-        - Obs: Dataset framed as a time-series problem
-        - Metrics:
-            - Categorization Accuracy: Train: 0.41 Validation: 0.41 Test: 0.39
-    
-    - #### [[7th iteration] - MLP Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B7th%20iteration%5D%20-%20MLP%20Series.ipynb)
-        - Obs: Dataset framed as a time-series problem
-        - Metrics:
-            - Categorization Accuracy: Train: 0.87 Validation: 0.87 Test: 0.36
-    
-    - #### [[8th iteration] - CNN Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B8th%20iteration%5D%20-%20CNN%20Series.ipynb)
-        - Obs: Dataset framed as a time-series problem
-        - Metrics:
-            - Categorization Accuracy: Train: 0.82 Validation: 0.81 Test: 0.52
-    
-    - #### [[10th iteration] - MLP Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B10th%20iteration%20-%20MLP%20Series%5D.ipynb)
-        - Obs: Dataset framed as a time-series problem
-        - Metrics:
-            - Categorization Accuracy: Train: 0.89 Validation: 0.78 Test: 0.39
-    
-    - #### [[11th iteration] - CNN Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B11th%20iteration%5D%20-%20CNN%20Series.ipynb)
-        - Obs: Dataset framed as a time-series problem
-        - Metrics:
-            - Categorization Accuracy: Train: 0.89 Validation: 0.76 Test: 0.53
-    
-    - #### [[12th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B12th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.10 Validation: 0.07 Test: ???
-    
-    - #### [[13th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B13th%20iteration%5D%20-%20MLP%20Series.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.91 Validation: 0.85 Test: ???
-    
-    - #### [[14th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B14th%20iteration%5D%20-%20CNN%20Series.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.85 Validation: 0.82 Test: ???
-    
-    - #### [[15th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B15th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.76 Validation: 0.71 Test: ???
-    
-    - #### [[16th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B16th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.42 Validation: 0.42 Test: ???
-    
-    - #### [[17th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B17th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.43 Validation: 0.43 Test: 0.46
-    
-    - #### [[18th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B18th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.45 Validation: 0.45 Test: 0.51
-            
-    - #### [[19th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B19th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.46 Validation: 0.45 Test: 0.49
-            
-    - #### [[20th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B20th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.41 Validation: 0.42 Test: ???
-            
-    - #### [[21th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B21th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.44 Validation: 0.42 Test: 0.48
-            
-    - #### [[22th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B22th%20iteration%5D%20-%20LSTM.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.47 Validation: 0.46 Test: ???
-    
-    - #### [[23th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B23th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.54 Validation: 0.50 Test: 0.50
-            
-    - #### [[24th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B24th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.69 Validation: 0.64 Test: 0.48
-    
-    - #### [[25th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B25th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.61 Validation: 0.58 Test: 0.41
-    
-    - #### [[26th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B26th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.73 Validation: 0.68 Test: 0.49
-            
-    - #### [[27th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B27th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.62 Validation: 0.57 Test: 0.37
-    
-    - #### [[28th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B28th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.71 Validation: 0.66 Test: 0.45
-            
-    - #### [[29th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B29th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.74 Validation: 0.69 Test: 0.49
-            
-    - #### [[30th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B30th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.76 Validation: 0.71 Test: 0.44
-            
-    - #### [[31th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B31th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.72 Validation: 0.67 Test: 0.41
-            
-    - #### [[32th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B32th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.73 Validation: 0.69 Test: 0.42
-            
-    - #### [[33th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B33th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.78 Validation: 0.71 Test: 0.49
-            
-    - #### [[34th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B34th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.69 Validation: 0.67 Test: 0.44
-            
-    - #### [[35th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B35th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.63 Validation: 0.62 Test: 0.45
-            
-    - #### [[36th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B36th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.65 Validation: 0.65 Test: 0.42
-            
-    - #### [[37th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B37th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.76 Validation: 0.71 Test: 0.53
-            
-    - #### [[38th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B38th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.73 Validation: 0.70 Test: 0.47
-            
-    - #### [[39th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B39th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.63 Validation: 0.61 Test: 0.44
-            
-    - #### [[40th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B40th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.72 Validation: 0.68 Test: 0.43
-            
-    - #### [[41th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B41th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.71 Validation: 0.67 Test: 0.41
-            
-    - #### [[42th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B42th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.73 Validation: 0.70 Test: 0.43
-            
-    - #### [[43th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B43th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.76 Validation: 0.71 Test: 0.43
-            
-    - #### [[44th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B44th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.76 Validation: 0.71 Test: 0.50
-            
-    - #### [[45th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B45th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.75 Validation: 0.71 Test: 0.44
-            
-    - #### [[46th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B46th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.80 Validation: 0.75 Test: 0.49
-            
-    - #### [[47th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B47th%20iteration%5D%20-%20CNN%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - v: Train: 0.78 Validation: 0.72 Test: 0.44
-            
-    - #### [[48th iteration] - LSTM Series](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B48th%20iteration%5D%20-%20GRU%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.75 Validation: 0.70 Test: 0.44
-            
-    - #### [[49th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B49th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.79 Validation: 0.73 Test: 0.41
-            
-    - #### [[50th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B50th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.41 Validation: 0.41 Test: 0.40
-            
-    - #### [[51th iteration] - CNN-LSTM FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B51th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.43 Validation: 0.43 Test: 0.46
-            
-    - #### [[52th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B52th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.38 Test: 0.35
-            
-    - #### [[53th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B53th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.39 Test: 0.35
-            
-    - #### [[54th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B54th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.38 Test: 0.34
-            
-    - #### [[55th iteration] - MLP FeEng](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B55th%20iteration%5D%20-%20MLP%20FeEng.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.39 Test: 0.37
-            
-    - #### [[56th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B56th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.39 Test: 0.36
-            
-    - #### [[57th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B57th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.40 Validation: 0.39 Test: 0.37
-            
-    - #### [[58th iteration] - CNN New validation](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B58th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.39 Validation: 0.38 Test: 0.36
-            
-    - #### [[59th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.42 Validation: 0.42 Test: 0.49
-            
-    - #### [[60th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.42 Validation: 0.42 Test: 0.45
-            
-    - #### [[61th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.20 Validation: 0.20 Test: 0.16
-            
-    - #### [[62th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.40 Validation: 0.39 Test: 0.37
-            
-    - #### [[63th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.43 Validation: 0.43 Test: 0.50
-            
-    - #### [[64th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.46 Validation: 0.45 Test: 0.51
-            
-    - #### [[65th iteration] - CNN New validation]()
-        - Obs: 
-        - Metrics:
-            - Categorization Accuracy: Train: 0.43 Validation: 0.44 Test: 0.51
+|Model|Train|Validation|Test|Link|
+|-----|-----|----------|----|----|
+|[1st iteration] - MLP|0.91|0.91|0.55|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B1st%20iteration%5D%20-%20MLP.ipynb)|
+|[2nd iteration] - MLP|0.42|0.41|0.45|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B2nd%20iteration%5D%20-%20MLP.ipynb)|
+|[3rd iteration] - MLP|0.84|0.84|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B3rd%20iteration%5D%20-%20MLP.ipynb)|
+|[4th iteration] - MLP|0.84|0.84|0.48|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B4th%20iteration%5D%20-%20MLP.ipynb)|
+|[5th iteration] - MLP|0.54|0.51|0.46|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B5th%20iteration%5D%20-%20MLP.ipynb)|
+|[6th iteration] - MLP Series|0.41|0.41|0.39|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B6th%20iteration%5D%20-%20MLP%20Series.ipynb)|
+|[7th iteration] - MLP Series|0.87|0.87|0.36|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B7th%20iteration%5D%20-%20MLP%20Series.ipynb)|
+|[8th iteration] - CNN Series| 0.82|0.81|0.52|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B8th%20iteration%5D%20-%20CNN%20Series.ipynb)|
+|[10th iteration] - MLP Series|0.89|0.78|0.39|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B10th%20iteration%20-%20MLP%20Series%5D.ipynb)|
+|[11th iteration] - CNN Series|0.89|0.76|0.53|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B11th%20iteration%5D%20-%20CNN%20Series.ipynb)|
+|[12th iteration] - LSTM Series|0.10|0.07|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B12th%20iteration%5D%20-%20LSTM.ipynb)|
+|[13th iteration] - LSTM Series|0.91|0.85|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B13th%20iteration%5D%20-%20MLP%20Series.ipynb)|
+|[14th iteration] - LSTM Series|0.85|0.82|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B14th%20iteration%5D%20-%20CNN%20Series.ipynb)|
+|[15th iteration] - LSTM Series|0.76|0.71|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B15th%20iteration%5D%20-%20LSTM.ipynb)|
+|[16th iteration] - LSTM Series|0.42|0.42|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B16th%20iteration%5D%20-%20LSTM.ipynb)|
+|[17th iteration] - LSTM Series|0.43|0.43|0.46|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B17th%20iteration%5D%20-%20LSTM.ipynb)|
+|[18th iteration] - LSTM Series|0.45|0.45|0.51|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B18th%20iteration%5D%20-%20LSTM.ipynb)|
+|[19th iteration] - LSTM Series|0.46|0.45|0.49|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B19th%20iteration%5D%20-%20LSTM.ipynb)|
+|[20th iteration] - LSTM Series|0.41|0.42|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B20th%20iteration%5D%20-%20LSTM.ipynb)|
+|[21th iteration] - LSTM Series|0.44|0.42|0.48|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B21th%20iteration%5D%20-%20LSTM.ipynb)|
+|[22th iteration] - LSTM Series|0.47|0.46|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B22th%20iteration%5D%20-%20LSTM.ipynb)|
+|[23th iteration] - LSTM Series|0.54|0.50|0.50|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B23th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[24th iteration] - LSTM Series|0.69|0.64|0.48|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B24th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[25th iteration] - LSTM Series|0.61|0.58|0.41|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B25th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[26th iteration] - LSTM Series|0.73|0.68|0.49|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B26th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[27th iteration] - LSTM Series|0.62|0.57|0.37|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B27th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[28th iteration] - LSTM Series|0.71|0.66|0.45|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B28th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[29th iteration] - LSTM Series|0.74|0.69|0.49|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B29th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[30th iteration] - LSTM Series|0.76|0.71|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B30th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[31th iteration] - LSTM Series|0.72|0.67|0.41|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B31th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[32th iteration] - LSTM Series|0.73|0.69|0.42|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B32th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[33th iteration] - LSTM Series|0.78|0.71|0.49|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B33th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[34th iteration] - LSTM Series|0.69|0.67|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B34th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[35th iteration] - LSTM Series|0.63|0.62|0.45|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B35th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[36th iteration] - LSTM Series|0.65|0.65|0.42|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B36th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[37th iteration] - LSTM Series|0.76|0.71|0.53|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B37th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[38th iteration] - LSTM Series|0.73|0.70|0.47|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B38th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[39th iteration] - LSTM Series|0.63|0.61|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B39th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[40th iteration] - LSTM Series|0.72|0.68|0.43|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B40th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[41th iteration] - LSTM Series|0.71|0.67|0.41|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B41th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[42th iteration] - LSTM Series|0.73|0.70|0.43|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B42th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[43th iteration] - LSTM Series|0.76|0.71|0.43|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B43th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[44th iteration] - LSTM Series|0.76|0.71|0.50|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B44th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[45th iteration] - LSTM Series|0.75|0.71|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B45th%20iteration%5D%20-%20LSTM%20FeEng.ipynb)|
+|[46th iteration] - LSTM Series|0.80|0.75|0.49|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B46th%20iteration%5D%20-%20MLP%20FeEng.ipynb)|
+|[47th iteration] - LSTM Series|0.78|0.72|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B47th%20iteration%5D%20-%20CNN%20FeEng.ipynb)|
+|[48th iteration] - LSTM Series|0.75|0.70|0.44|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B48th%20iteration%5D%20-%20GRU%20FeEng.ipynb)|
+|[49th iteration] - CNN-LSTM FeEng|0.79|0.73|0.41|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B49th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)|
+|[50th iteration] - CNN-LSTM FeEng|0.41|0.41|0.40|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B50th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)|
+|[51th iteration] - CNN-LSTM FeEng|0.43|0.43|0.46|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B51th%20iteration%5D%20-%20CNN-LSTM%20FeEng.ipynb)|
+|[52th iteration] - MLP FeEng|0.39|0.38|0.35|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B52th%20iteration%5D%20-%20MLP%20FeEng.ipynb)|
+|[53th iteration] - MLP FeEng|0.39|0.39|0.35|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B53th%20iteration%5D%20-%20MLP%20FeEng.ipynb)|
+|[54th iteration] - MLP FeEng|0.39|0.38|0.34|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B54th%20iteration%5D%20-%20MLP%20FeEng.ipynb)|
+|[55th iteration] - MLP FeEng|0.39|0.39|0.37|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B55th%20iteration%5D%20-%20MLP%20FeEng.ipynb)|
+|[56th iteration] - CNN New validation|0.39|0.39|0.36|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B56th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)|
+|[57th iteration] - CNN New validation|0.40|0.39|0.37|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B57th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)|
+|[58th iteration] - CNN New validation|0.39|0.38|0.36|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/%5B58th%20iteration%5D%20-%20CNN%20New%20validation.ipynb)|
+|[59th iteration] - CNN New validation|0.42|0.42|0.49|[Link]()|
+|[60th iteration] - CNN New validation|0.42|0.42|0.45|[Link]()|
+|[61th iteration] - CNN New validation|0.20|0.20|0.16|[Link]()|
+|[62th iteration] - CNN New validation|0.40|0.39|0.37|[Link]()|
+|[63th iteration] - CNN New validation|0.43|0.43|0.50|[Link]()|
+|[64th iteration] - CNN New validation|0.46|0.45|0.51|[Link]()|
+|[65th iteration] - CNN New validation| 0.43|0.44|0.51|[Link]()|
