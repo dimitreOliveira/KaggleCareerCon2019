@@ -1,5 +1,5 @@
-## Model backlog (list here each developed model and it's score)
-- Train and validation are the splits using the train data from the competition.
+## Model backlog (list of developed model and it's score)
+- Train and validation are splits using the train data from the competition.
 - Test is the public leaderboard data set.
 - The competition metric is "Categorization Accuracy".
 
