@@ -18,13 +18,13 @@
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|Random forest Bootstrap|0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Grid Search|0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Random Search|0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Random Search 2|0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Bayesian Opt |0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Bayesian Opt 2|0.00|0.00|0.00|[Link]()|
-|Random forest Bootstrap - Bayesian Opt 3|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap|0.87|0.87|0.57|[Link]()|
+|Random forest Bootstrap - Grid Search|0.87|0.87|0.55|[Link]()|
+|Random forest Bootstrap - Random Search|0.87|0.87|0.55|[Link]()|
+|Random forest Bootstrap - Random Search 2|0.48|0.48|0.21|[Link]()|
+|Random forest Bootstrap - Bayesian Opt |0.88|0.88|0.57|[Link]()|
+|Random forest Bootstrap - Bayesian Opt 2|0.87|0.87|0.55|[Link]()|
+|Random forest Bootstrap - Bayesian Opt 3|0.86|0.86|0.55|[Link]()|
 
 
 - ### CatBoost
