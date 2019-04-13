@@ -18,26 +18,40 @@
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|???|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Grid Search|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Random Search|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Random Search 2|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Bayesian Opt |0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Bayesian Opt 2|0.00|0.00|0.00|[Link]()|
+|Random forest Bootstrap - Bayesian Opt 3|0.00|0.00|0.00|[Link]()|
 
 
 - ### CatBoost
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|???|0.00|0.00|0.00|[Link]()|
+|CatBoost Bootstrap|0.00|0.00|0.00|[Link]()|
 
 - ### LightGBM
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|???|0.00|0.00|0.00|[Link]()|
+|LightGBM Bootstrap|0.87|0.87|0.58|[Link]()|
+|LGBM Bootstrap - Grid Search|0.89|0.89|0.58|[Link]()|
+|LGBM Bootstrap - Random Search|0.88|0.88|0.57|[Link]()|
+|LGBM Bootstrap - Random Search 2|0.88|0.88|0.56|[Link]()|
+|LGBM Bootstrap - Bayesian Opt|0.88|0.88|0.57|[Link]()|
+|LGBM Bootstrap - Bayesian Opt 2|0.87|0.87|0.57|[Link]()|
 
 - ### XGBM
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|???|0.00|0.00|0.00|[Link]()|
+|XGBoost Bootstrap|0.00|0.00|0.00|[Link]()|
+|XGBoost Bootstrap - Grid Search|0.00|0.00|0.00|[Link]()|
+|XGBoost Bootstrap - Random Search|0.00|0.00|0.00|[Link]()|
+|XGBoost Bootstrap - Bayesian Opt |0.00|0.00|0.00|[Link]()|
 
 - ### Deep Learning
 
