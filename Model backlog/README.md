@@ -85,8 +85,7 @@
     |[62th iteration] - CNN New validation|0.40|0.39|0.37|[Link]()|
     |[63th iteration] - CNN New validation|0.43|0.43|0.50|[Link]()|
     |[64th iteration] - CNN New validation|0.46|0.45|0.51|[Link]()|
-    |[65th iteration] - CNN New validation| 0.43|0.44|0.51|[Link]()|
-    
+    |[65th iteration] - CNN New validation| 0.43|0.44|0.51|[Link]()|    
     |[66th iteration] - CNN New validation| 0.59|0.55|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/CNN/%5B66th%20iteration%5D%20-%20CNN%20-%20Multi%20Conv.ipynb)|
     |[67th iteration] - CNN New validation| 0.60|0.51|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/CNN/%5B67th%20iteration%5D%20-%20CNN%20-%20Multi%20Conv.ipynb)|
     |[68th iteration] - CNN New validation| 0.56|0.51|???|[Link](https://github.com/dimitreOliveira/KaggleCareerCon2019/blob/master/Model%20backlog/Kaggle/Deep%20Learning/CNN/%5B68th%20iteration%5D%20-%20CNN%20-%20Multi%20Conv3.ipynb)|
