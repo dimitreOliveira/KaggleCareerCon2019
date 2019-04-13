@@ -31,7 +31,7 @@
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|CatBoost Bootstrap|0.00|0.00|0.00|[Link]()|
+|CatBoost Bootstrap|0.81|0.81|0.58|[Link]()|
 
 - ### LightGBM
 
