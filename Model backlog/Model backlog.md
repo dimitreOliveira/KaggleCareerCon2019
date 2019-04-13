@@ -2,13 +2,6 @@
 - Train and validation are the splits using the train data from the competition.
 - Test is the public leaderboard data set.
 - The competition metric is "Categorization Accuracy".
----
-
-### Model summary template
-#### Model:
-- Obs:
-- Metrics:
-    - Score: Train: Validation: Test: 
 
 ---
 
@@ -48,10 +41,10 @@
 
 |Model|Train|Validation|Test|Link|
 |-----|-----|----------|----|----|
-|XGBoost Bootstrap|0.00|0.00|0.00|[Link]()|
-|XGBoost Bootstrap - Grid Search|0.00|0.00|0.00|[Link]()|
-|XGBoost Bootstrap - Random Search|0.00|0.00|0.00|[Link]()|
-|XGBoost Bootstrap - Bayesian Opt |0.00|0.00|0.00|[Link]()|
+|XGBoost Bootstrap|0.88|0.88|0.58|[Link]()|
+|XGBoost Bootstrap - Grid Search|0.88|0.88|0.58|[Link]()|
+|XGBoost Bootstrap - Random Search|0.88|0.88|0.58|[Link]()|
+|XGBoost Bootstrap - Bayesian Opt |0.88|0.88|0.58|[Link]()|
 
 - ### Deep Learning
 
