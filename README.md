@@ -30,9 +30,3 @@ We’ve collected IMU sensor data while driving a small mobile robot over differ
 **Special thanks for making this competition possible:**
 
 The data for this competition has been collected by Heikki Huttunen and Francesco Lomio from the Department of Signal Processing and Damoon Mohamadi, Kaan Celikbilek, Pedram Ghazi and Reza Ghabcheloo from the Department of Automation and Mechanical Engineering both from Tampere University, Finland. We at Kaggle would like thank them all for kindly donating the data that has made this competition possible!
-
-### Dependencies by folder:
-- General
-  - [Python 3.x](https://www.python.org/)
-    
-### TODO (in case anyone wants to continue this work):
